@@ -94,6 +94,7 @@ _Dmitry Maximenko — Programmer and Cool Guy_ 😎
 Thank you for exploring QuarkBIOS! We hope this project inspires you to learn, experiment, and create amazing low-level software. ❤️🚀
 
 🔗 Links and acknowledgements
+
 Telegram: https://t.me/kig_org
 
 Special thanks to everyone who contributed to this project!
