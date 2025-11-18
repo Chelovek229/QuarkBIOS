@@ -25,3 +25,12 @@ QuarkBIOS is a 16-bit real-mode BIOS written in x86 assembly. This project is de
 ## License
 
 This project is licensed under the GNU AGPLv3 License.
+
+## Autors
+
+- Konstantin Kornienko - Programmer, architechtor and director
+- Dmitry Maximenko - Programmer and cool guy
+- And many, many anonymous...
+
+- ## End
+- Created by KiG Organization
