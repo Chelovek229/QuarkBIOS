@@ -26,7 +26,7 @@ This repository is intended for education, research and practical experimentatio
 ## Build instructions
 
 1. Install dependencies (example for Debian/Ubuntu):
-```bash
+`bash
 sudo apt update
 sudo apt install nasm qemu-system-x86
 
