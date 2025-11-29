@@ -32,17 +32,17 @@ sudo apt install nasm qemu-system-x86
 
 2. Build (example):
 
-```./tools/build.bat```
+`./tools/build.bat
 
 
 or assemble manually:
 
-```nasm -f bin src/boot.asm -o build/quarkbios.bin```
+`nasm -f bin src/boot.asm -o build/quarkbios.bin
 
 
 3. Run in QEMU:
 
-```qemu-system-i386 -bios build/quarkbios.bin```
+`qemu-system-i386 -bios build/quarkbios.bin
 
 Project goals and roadmap
 
