@@ -82,7 +82,7 @@ Detailed contribution rules and workflow are provided in CONTRIBUTING.md. Contri
 
 License
 
-This project is released under the GNU GPL v3.0. See the LICENSE file for the full text. All contributions must comply with the terms of AGPL v3.0.
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 Authors and maintainers
 
